@@ -1,6 +1,6 @@
 streamlit
-pandas
-numpy
-openpyxl
+streamlit
 scikit-learn
+numpy
+
 
